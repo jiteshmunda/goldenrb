@@ -44,7 +44,7 @@ if (getRNMinorVersion() >= 75) {
   }
 }
 
-rootProject.name = 'GoldenRB'
+rootProject.name = 'GoldenRB Music'
 
 dependencyResolutionManagement {
   versionCatalogs {
